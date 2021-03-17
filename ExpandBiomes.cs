@@ -1,3 +1,5 @@
+//Krótki skrypt który posiada każdy chunk każdego biomu by pilnować tego aby dwa biomy nie wygenerowały się na tych samych koordynatach
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
