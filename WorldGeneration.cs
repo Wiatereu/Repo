@@ -2,7 +2,7 @@
 //oraz za wygenerowanie obrazu png będącym czymś w rodzaju mapą świata.
 //Skrypt również na bierząco przenosi dane o biomach na danych koordynatach do innego skryptu w formie tablicy dwuwymiarowej
 //do której można później wysyłać zapytania na temat tego na jakich koordynatach znajduje się dany biom lub jaki biom jest na koordynatach X, Y
-//oraz na bierząco śledzenie tego na jakim biomie znajduje się gracz
+//oraz na bierząco śledzenie tego na jakim biomie znajduje się gracz.
 
 using System.Collections;
 using System.Collections.Generic;
