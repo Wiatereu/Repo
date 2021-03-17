@@ -1,3 +1,5 @@
+//Ten skrypt trzyma informacje na temat istniejących biomów i ich położenia
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
